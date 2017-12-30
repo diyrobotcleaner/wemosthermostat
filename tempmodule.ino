@@ -25,8 +25,8 @@ WidgetLED led1(V5);
 BlynkTimer timer;
 
 char auth[] = "e4c9dc4021434e959f556c11d5cf0a98";
-char ssid[] = "SELCANERCAN";
-char pass[] = "selcan1988";
+char ssid[] = "wifi adı buraya yazılacak";
+char pass[] = "wifi şifresi buraya yazılacak";
 
 BLYNK_WRITE(V9)
 {   
